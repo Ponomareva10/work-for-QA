@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+  }
+  
+  ul,
+  ol,
+  i,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  hr,
+  div,
+  p,
+  nav,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ol,
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  :root {
+    --bg-main-color: #FFF;
+    --bg-footer-color: #FAFAFA;
+    --main-text-color: #737373;
+    --head-text-color: #252B42;
+    --active-color: #23A6F0;
+    --font-weight-bold: 700;
+    --font-weight-norm: 400;
+  }
